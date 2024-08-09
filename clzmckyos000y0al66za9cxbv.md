@@ -195,8 +195,6 @@ To start the services, I used:
 docker compose up -d --build
 ```
 
-### Final Verification
-
 To ensure everything was running smoothly, I checked the running containers:
 
 ```bash
